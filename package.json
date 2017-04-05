@@ -1,0 +1,14 @@
+{
+  "name": "01-hello-react",
+  "version": "1.0.0",
+  "description": "Simple react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravil Garipov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
